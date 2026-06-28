@@ -1,5 +1,6 @@
 from almalinux:9
+RUN ["nginx", "-g" "daemon off"]
 LABEL   COURSE="DOCKER"\
         Trainner="jai"\
         Duration="90hrs"\
-        
+
