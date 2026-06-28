@@ -1,0 +1,4 @@
+from almalinux:9
+ENV MONGODB_URL="MONGODB.JAI01.ONLINE"/
+    MONGODB USER ="ADMIN"/
+    
