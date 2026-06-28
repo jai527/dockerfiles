@@ -1,2 +1,3 @@
 from almalinux
 ADD https://github.com/daws-88s/dockerfiles/blob/main/ENV/Dockerfile /tmp
+ADD tar_sample_file_1MB /tmp
