@@ -1,0 +1,5 @@
+from almalinux:9
+LABEL   COURSE="DOCKER"\
+        Trainner="jai"\
+        Duration="90hrs"\
+        
