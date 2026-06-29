@@ -1,1 +1,1 @@
-from almalinux:9
+FROM base-onbuild:1.0.0 
